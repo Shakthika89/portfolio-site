@@ -10,7 +10,6 @@ I am a Final Year BCA student interested in Web Design and Frontend Development.
 
 - HTML
 - CSS
-- JavaScript
 
 ## ✨ Features
 
